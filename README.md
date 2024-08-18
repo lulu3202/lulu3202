@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technical Product Manager ➡️ Machine Learning Engineer 🤖<br>Deep Learning Enthusiast 🧠 <br>Ex-Technical Product Manager 💻 | 8+ Years in Tech 🚀<br>AWS & Azure Solution Architect Certified 📜<br><br>Expert in end-to-end software program and product managment 💼 <br>
+Technical Product Manager ➡️ Machine Learning Engineer 🤖<br>Deep Learning Enthusiast 🧠 <br>AWS & Azure Solution Architect Certified 📜<br><br>Expert in end-to-end software program and product managment 💼 | 8+ Years in Tech 🚀 | Ex- Microsoft Technical Product Manager 💻
 
 
 ## 🌐 Socials:
