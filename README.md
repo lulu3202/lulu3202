@@ -1,6 +1,7 @@
 # 💫 About Me:
 Technical Product Manager ➡️ Machine Learning 🤖 and Deep Learning Enthusiast 🧠 <br>AWS & Azure Solution Architect Certified 📜<br><br>Expert in end-to-end software program and product managment 💼 | 8+ Years in Tech 🚀 | Ex- Microsoft Technical Product Manager 💻
-Connect with me on LinkedIn:(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devikaruppiah/)
+
+Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devikaruppiah/)
 
 
 ## 🌐 Socials:
