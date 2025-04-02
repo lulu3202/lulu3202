@@ -97,7 +97,8 @@ In my quest to gain expertise in Generative AI, I followed a bottom-up approach,
 - **Q Developer** → Managing and scaling AI applications  
 
 #### 🔹 **AI Agents & Orchestration**  
-- **Bedrock Agents** → AWS-native AI automation  
+- **Bedrock Agents** → AWS-native AI automation
+- **AGNO** -> light-weight agentic framework previously called PhiData
 - **Crew AI** → Multi-agent collaboration framework  
 - **LangGraph** → Advanced Agent Workflow Orchestration  
 - **LangSmith** → Debugging, monitoring, and improving LLM interactions  
