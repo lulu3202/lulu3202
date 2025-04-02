@@ -1,6 +1,4 @@
 # Hey, I'm Devi! 👋  
-![GitHub Contribution Banner](https://github-readme-streak-stats.herokuapp.com/?user=lulu3202&theme=ambient-gradient)
-
 ---
 
 ## **A Little About Me** 🗯️  
