@@ -17,9 +17,7 @@ After earning my Master’s in Information Technology Management from UT Dallas,
 - **Product Manager** – Microsoft, Washington, USA  
 - **Technical Writer & Associate Engineer** – TCS, India  
 
-During my last role at Microsoft, a business restructuring led to my position being offshored.  
-
-I embraced this transition as an opportunity to evolve once again—this time, deepening my expertise in **Cloud, AI, and Generative AI!** 🧠  
+I am currently evolving once again—this time, deepening my expertise in **Cloud, AI, and Generative AI!** 🧠  
 
 ---
 
