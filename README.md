@@ -1,7 +1,7 @@
 # I'm Devi! 👋  
 
 ## **A Little About Me** 🗯️  
-With over 10 years of experience in tech, my journey has been one of continuous evolution—spanning multiple industries and diverse roles across the tech space! 🚀  
+My career journey has been one of continuous evolution—spanning multiple industries and diverse roles across the tech space! 🚀  
 
 ### **Gallup StrengthsFinder Results:**  
 🔥 Activator — 🚀 Maximizer — 😊 Positivity — ❤️ Empathy — 🔮 Futuristic  
