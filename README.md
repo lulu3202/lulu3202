@@ -28,14 +28,6 @@ My career journey has been one of continuous evolution—spanning multiple indus
 ---
 ## **What You'll Find on My GitHub** 🔥  
 📑 My learnings across **Cloud, Python, Machine Learning, Deep Learning, Generative AI, and MLOps!**  
-
----
-## 📬 **Let's Connect!**  
-I'm actively looking for **Generative AI roles**, with a focus on cloud-native AI solutions. I’m always open to collaborations, discussions on GenAI, and exciting opportunities in the space!  
-
-📧 **Email:** priyamadurai2022@gmail.com  
-🔗 **GitHub:** [My GitHub Profile](https://github.com/lulu3202)  
-💼 **LinkedIn:** [Devi Priya](https://www.linkedin.com/in/devipriyak/)  
 ---
 ## 🎓 **Education**  
 - **Master’s Degree** – Information Technology Management, UT Dallas, USA  
@@ -89,3 +81,10 @@ In my quest to gain expertise in Generative AI, I followed a bottom-up approach,
 ---
 ### **My Gallup StrengthsFinder Results:**  
 🔥 Activator — 🚀 Maximizer — 😊 Positivity — ❤️ Empathy — 🔮 Futuristic  
+---
+## 📬 **Let's Connect!**  
+I'm super passionate about for designing and architecting **Generative AI solutions**, with a focus on cloud-native AI solutions. I’m always open to collaborations, discussions on GenAI, and exciting speaking opportunities in the space!  
+
+📧 **Email:** priyamadurai2022@gmail.com  
+🔗 **GitHub:My GitHub Profile](https://github.com/lulu3202)  
+💼 **LinkedIn:[Devi Priya](https://www.linkedin.com/in/devipriyak/) 
