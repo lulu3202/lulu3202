@@ -27,7 +27,7 @@ My career journey has been one of continuous evolution 🚀 I'm evolving once ag
 
 ---
 ## **What You'll Find on My GitHub** 🔥  
-📑 My learnings across **Cloud, Python, Machine Learning, Deep Learning, Generative AI, and MLOps!
+📑 My learnings across Cloud, Python, Machine Learning, Deep Learning, Generative AI, and MLOps!
 
 ---
 ## 🎓 **Education**  
