@@ -7,7 +7,7 @@
 - **Product Specialist** – Dynata, Texas, USA  
 - **Technical Writer & Associate Engineer** – TCS, India  
 
-My career journey has been one of continuous evolution—spanning multiple industries across the tech space! 🚀 I am evolving once again, this time, deepening my expertise in **Cloud, AI, and Generative AI!🧠
+My career journey has been one of continuous evolution 🚀 I am evolving once again, this time, deepening my expertise in **Cloud, AI, and Generative AI!🧠
 
 ---
 ## **My AI & Cloud Journey (Current)** 🌟  
