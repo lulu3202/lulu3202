@@ -22,12 +22,13 @@ My career journey has been one of continuous evolution 🚀 I'm evolving once ag
   - 🏆 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/devi-6391/credentials/aa31e42e327032fa?ref=https%3A%2F%2Fwww.linkedin.com%2F)
   - 🏆 [Salesforce Certified Agentforce Specialist](https://drive.google.com/file/d/10MmojiWetR9W_VmrN3QGrUPfydJW4cSP/view?usp=sharing)
 - **Authored 20+ technical articles** on Cloud & AI topics on 🔗[Medium](https://medium.com/@devipriyakaruppiah)  
-- **Completed an AI/ML bootcamp**, building 50+ hands-on projects documented on GitHub  
-- **Launched a YouTube channel** focused on Cloud & AI  
+- **Contributed to community learning**, by building and documenting 50+ hands-on AI/ML projects on 🔗[Github](https://github.com/lulu3202?tab=repositories) 
+- **Launched a YouTube channel** focused on Cloud & AI 🔗[YouTube](https://www.youtube.com/@devislab) 
 
 ---
 ## **What You'll Find on My GitHub** 🔥  
-📑 My learnings across **Cloud, Python, Machine Learning, Deep Learning, Generative AI, and MLOps!**  
+📑 My learnings across **Cloud, Python, Machine Learning, Deep Learning, Generative AI, and MLOps!
+
 ---
 ## 🎓 **Education**  
 - **Master’s Degree** – Information Technology Management, UT Dallas, USA  
@@ -86,5 +87,5 @@ In my quest to gain expertise in Generative AI, I followed a bottom-up approach,
 I'm super passionate about for designing and architecting **Generative AI solutions**, with a focus on cloud-native AI solutions. I’m always open to collaborations, discussions on GenAI, and exciting speaking opportunities in the space!  
 
 📧 **Email:** priyamadurai2022@gmail.com  
-🔗 **GitHub:My GitHub Profile](https://github.com/lulu3202)  
-💼 **LinkedIn:[Devi Priya](https://www.linkedin.com/in/devipriyak/) 
+🔗 **GitHub:**My GitHub Profile](https://github.com/lulu3202)  
+💼 **LinkedIn:**[Devi Priya](https://www.linkedin.com/in/devipriyak/) 
