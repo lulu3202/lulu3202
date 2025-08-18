@@ -11,7 +11,8 @@ My career journey has been one of continuous evolution 🚀 I'm evolving once ag
 
 ---
 ## **My AI & Cloud Journey (Current)** 🌟  
-- **Earned 9 Cloud Certifications**, including:  
+- **Earned 10+ Cloud Certifications**, including:  
+  - 🏆 [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/0215e507-0732-4089-9ea0-9c62423920b5#acc.miRK28q7)
   - 🏆 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/fe5d9495-2ca7-4f0e-b376-3379ed63b025/linked_in_profile)  
   - 🏆 [AWS Certified Machine Learning Specialty](https://www.credly.com/badges/786c057e-26de-473c-a711-79e309ccc86c/linked_in?t=sop5vy)  
   - 🏆 [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/devi-6391/credentials/7aacac48819cc637?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
